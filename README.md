@@ -18,3 +18,14 @@ current array element in each index is equal to the value.
 - If no matched, return -1
 </pre>
 
+<pre>
+BIG O:
+- O(1), Best Scenario. Where we found the element on the first search.
+- O(n), Worst Scenario. Where we loop n times to the last 
+element and find the element.
+- O(n), Average Scenario. Where we loop through a few n times to find the element.
+
+</pre>
+
+ 
+
