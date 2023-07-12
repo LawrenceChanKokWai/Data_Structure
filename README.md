@@ -11,7 +11,10 @@
 - If no element is found equal to the key, the search yields “No match found”.
 <pre>
 Ps code:
-- 
-- A simple cout on stating each role as prove of concept.
+- Function accepts an array and a value.
+- Looping through the array and check if 
+current array element in each index is equal to the value.
+- If matched, return the array index at which the element value is found.
+- If no matched, return -1
 </pre>
 
