@@ -2,13 +2,13 @@
 
 **Linear Search:**
 
-<img align="left" width="100%" src="diagram_linear_search.gif"> 
+<img align="left" width="100%" src="diagram_binary.gif"> 
 
-[In linear search Algorithm](https://www.educative.io/blog/object-oriented-programming)
+[Binary Algorithm](https://www.programiz.com/dsa/binary-search)
 
-- Every element is considered as a potential match for the key and checked for the same.
-- If any element is found equal to the key, the search is successful and the index of that element is returned.
-- If no element is found equal to the key, the search yields “No match found”.
+Binary Search is a searching algorithm for finding an element's position in a sorted array.
+In this approach, the element is always searched in the middle of a portion of an array.
+
 <pre>
 Ps code:
 - Function accepts an array and a value.

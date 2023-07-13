@@ -1,6 +1,4 @@
 # ninja log v5
 0	32	1689142159753044493	CMakeFiles/DataStructure.dir/Includes/LinearSearch.cpp.o	6a429d86dd468f5a
-0	289	1689142160008567867	CMakeFiles/DataStructure.dir/main.cpp.o	e01d03cbb0707d48
-290	357	1689142160077805410	DataStructure	6b3e405e58f70021
 12	280	1689142176242009097	CMakeFiles/DataStructure.dir/main.cpp.o	e01d03cbb0707d48
 281	314	1689142176277237403	DataStructure	6b3e405e58f70021
