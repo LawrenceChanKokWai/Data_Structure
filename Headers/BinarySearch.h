@@ -1,8 +1,14 @@
-//
-// Created by Chan Kok Wai on 13/7/23.
-//
 
 #ifndef DATASTRUCTURE_BINARYSEARCH_H
 #define DATASTRUCTURE_BINARYSEARCH_H
+
+#include <iostream>
+
+class BinarySearch {
+
+public:
+    int searchBinary(int myArray[], int length, int value);
+
+};
 
 #endif //DATASTRUCTURE_BINARYSEARCH_H
